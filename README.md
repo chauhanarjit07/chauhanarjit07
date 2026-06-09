@@ -132,7 +132,18 @@ https://pixel-perfect-clone-34692.lovable.app/
 https://drive.google.com/file/d/1uDMbUgo4MRKNsWJrkxykFfN3kagl6IIy/view
 
 ---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chauhanarjit07&theme=github_dark" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chauhanarjit07&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chauhanarjit07&theme=github_dark" />
+</p>
+--<br>
 ## 📫 Connect With Me
 
 <p align="center">
