@@ -132,18 +132,23 @@ https://pixel-perfect-clone-34692.lovable.app/
 https://drive.google.com/file/d/1uDMbUgo4MRKNsWJrkxykFfN3kagl6IIy/view
 
 ---
+## 📊 GitHub Analytics
+
+I'm passionate about building projects, learning new technologies, and continuously improving my development skills. Here's a snapshot of my GitHub activity, language usage, and coding journey.
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chauhanarjit07&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chauhanarjit07&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chauhanarjit07&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chauhanarjit07&theme=github_dark" width="49%" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chauhanarjit07&theme=github_dark" width="49%" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chauhanarjit07&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chauhanarjit07&theme=github_dark" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chauhanarjit07&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive Time" />
 </p>
---<br>
 ## 📫 Connect With Me
 
 <p align="center">
