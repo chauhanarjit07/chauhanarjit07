@@ -2,7 +2,9 @@
 
 ### 🎓 B.Tech Student | ASP.NET Developer | Database Enthusiast | IoT Explorer
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chauhanarjit07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
