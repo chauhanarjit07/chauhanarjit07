@@ -116,7 +116,7 @@ Developed a customer-side flight management application for efficient flight boo
 ## 🌐 Portfolio
 
 🔗 **Portfolio Website**
-https://pixel-perfect-clone-34692.lovable.app/
+https://pixel-perfect-clone-34692.lovable.app
 
 ---
 
