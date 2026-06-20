@@ -70,12 +70,6 @@
 
 * Completed a 1-month internship.
 * Worked in a collaborative environment and gained practical exposure.
-
-### 🔹 Technology Business Incubator (TBI), Graphic Era
-
-* Completed a 1-month internship.
-* Explored innovation, entrepreneurship, and technology-based solutions.
-
 ---
 
 ## 📂 Featured Projects
