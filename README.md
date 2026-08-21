@@ -46,39 +46,12 @@ I started programming with **C**, built my foundation through **C++ and DSA**, a
 
 > These are the projects I currently consider the strongest representation of my learning journey.
 
-### 🥇 🧠 Basics_of_DSA
-**C++ · Data Structures · Algorithms · Problem Solving**
-
-A structured collection documenting my DSA journey, covering fundamental algorithms and data structures with implementations in C++.
-
-🔗 **Repository:** https://github.com/chauhanarjit07/Basics_of_DSA
-
----
-
-### 🥈 📝 Student Registration Form
-**ASP.NET Web Forms · C# · MySQL · HTML/CSS**
-
-A database-driven student registration application demonstrating web forms, validation, database connectivity, and CRUD-oriented development.
-
-🔗 **Repository:** https://github.com/chauhanarjit07/Student-Registration-Form
-
----
-
-### 🥉 ✈️ FlightBooker
-**C · Structures · File Handling · Searching · Sorting**
-
-A console-based flight booking system featuring flight search, booking, cancellation, seat availability, price/time-based sorting, and ticket generation.
-
-🔗 **Repository:** https://github.com/chauhanarjit07/FlightBooker
-
----
-
-### 4️⃣ 🌡️ Live Temperature Sensing Device
-**Arduino · Embedded C/C++ · Sensors · IoT**
-
-A real-time temperature monitoring project using Arduino and a temperature sensor to capture and display environmental readings.
-
-🔗 **Repository:** https://github.com/chauhanarjit07/Live-Temperature-Sensing-Device
+| Rank | Project | Focus | Technologies |
+|---|---|---|---|
+| 🥇 | [Basics_of_DSA](https://github.com/chauhanarjit07/Basics_of_DSA) | DSA & problem solving | C++ |
+| 🥈 | [Student-Registration-Form](https://github.com/chauhanarjit07/Student-Registration-Form) | Database-driven web app | ASP.NET, C#, MySQL |
+| 🥉 | [FlightBooker](https://github.com/chauhanarjit07/FlightBooker) | Flight booking & file handling | C |
+| 4️⃣ | [Live-Temperature-Sensing-Device](https://github.com/chauhanarjit07/Live-Temperature-Sensing-Device) | Real-time monitoring | Arduino, C/C++, Sensors |
 
 ---
 
@@ -120,7 +93,7 @@ Full-Stack Development 🚀
 
 ## 🎯 Current Focus
 
-- 🧠 Strengthening DSA and competitive problem solving
+- 🧠 Strengthening DSA and problem solving
 - 💻 Building practical C++ projects
 - 🌐 Developing ASP.NET applications
 - 🗄️ Improving database design and SQL skills
@@ -157,18 +130,9 @@ Full-Stack Development 🚀
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arjit-chauhan-1a0325316/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/chauhanarjit07">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/chauhan_arjit_6207/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
-  </a>
-  <a href="mailto:chauhanarjit07@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/arjit-chauhan-1a0325316/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>
+  <a href="https://github.com/chauhanarjit07"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></a>
+  <a href="mailto:chauhanarjit07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" /></a>
 </p>
 
 📧 **Email:** chauhanarjit07@gmail.com  
@@ -184,8 +148,8 @@ I aim to keep my projects recruiter-friendly by maintaining:
 - ✅ Organized project structure
 - ✅ Appropriate `.gitignore` files
 - ✅ Open-source licensing where applicable
-- ✅ Meaningful commit messages
-- 🚧 Screenshots / demos for projects as they are added
+- ✅ Meaningful commit messages going forward
+- 🚧 Screenshots / demos as they are added
 - 🚧 Continuous improvements and new features
 
 ---
