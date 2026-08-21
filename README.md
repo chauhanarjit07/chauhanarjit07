@@ -1,134 +1,135 @@
-# Hi 👋, I'm Arjit Chauhan
+<div align="center">
 
-### 🎓 B.Tech Student | ASP.NET Developer | Database Enthusiast | IoT Explorer
+# 👋 Hi, I'm Arjit Chauhan
 
-<p align="left">
+### 💻 B.Tech CSE Student | DSA Learner | Full-Stack Developer in Progress
+
+*Building projects, strengthening problem-solving skills, and learning something new every day.*
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=chauhanarjit07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/chauhanarjit07?label=Followers&style=flat" alt="Followers" />
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Pursuing **B.Tech** at **Graphic Era Deemed to be University**
-📅 Expected Graduation: **2029**
+🎓 **B.Tech Computer Science** student at **Graphic Era Deemed to be University**  
+📅 Expected graduation: **2029**  
+💡 Interested in **Data Structures, Algorithms, Web Development, Databases, and IoT**
 
-💻 Passionate about:
+I started programming with **C**, built my foundation through **C++ and DSA**, and am now expanding into **ASP.NET, C#, MySQL, and full-stack development**.
 
-* Web Development
-* Database Management
-* Full-Stack Development
-* IoT Projects
-* Data Technologies
+### 🌱 Currently Learning
 
-🌱 Currently Learning:
-
-* ASP.NET & C#
-* MySQL
-* HTML, CSS & JavaScript
-* Full-Stack Development
-
-🤝 Looking to Collaborate On:
-
-* ASP.NET Applications
-* Database-Driven Projects
-* Open Source Contributions
-* Student Developer Projects
-
-💬 Ask Me About:
-
-* ASP.NET & C#
-* MySQL
-* C Programming
-* Python
-* Web Development
-* Canva Design
-* Content Creation
-
-⚡ Fun Fact:
-
-> I started programming with C and now enjoy building web applications using ASP.NET and MySQL.
+- Data Structures & Algorithms
+- C++ problem solving
+- ASP.NET & C#
+- MySQL & database design
+- HTML, CSS & JavaScript
+- Full-stack development
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,mysql,git,linux,arduino,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,mysql,git,github,linux,arduino,vscode" />
 </p>
+
+---
+
+## ⭐ Featured Projects
+
+> These are the projects I currently consider the strongest representation of my learning journey.
+
+### 🥇 🧠 Basics_of_DSA
+**C++ · Data Structures · Algorithms · Problem Solving**
+
+A structured collection documenting my DSA journey, covering fundamental algorithms and data structures with implementations in C++.
+
+🔗 **Repository:** https://github.com/chauhanarjit07/Basics_of_DSA
+
+---
+
+### 🥈 📝 Student Registration Form
+**ASP.NET Web Forms · C# · MySQL · HTML/CSS**
+
+A database-driven student registration application demonstrating web forms, validation, database connectivity, and CRUD-oriented development.
+
+🔗 **Repository:** https://github.com/chauhanarjit07/Student-Registration-Form
+
+---
+
+### 🥉 ✈️ FlightBooker
+**C · Structures · File Handling · Searching · Sorting**
+
+A console-based flight booking system featuring flight search, booking, cancellation, seat availability, price/time-based sorting, and ticket generation.
+
+🔗 **Repository:** https://github.com/chauhanarjit07/FlightBooker
+
+---
+
+### 4️⃣ 🌡️ Live Temperature Sensing Device
+**Arduino · Embedded C/C++ · Sensors · IoT**
+
+A real-time temperature monitoring project using Arduino and a temperature sensor to capture and display environmental readings.
+
+🔗 **Repository:** https://github.com/chauhanarjit07/Live-Temperature-Sensing-Device
+
+---
+
+## 🗺️ My Learning Journey
+
+```text
+C Programming
+     │
+     ▼
+C++ & OOP ────────► Data Structures & Algorithms
+     │                         │
+     ▼                         ▼
+Project Development      Problem Solving
+     │                         │
+     ├──────────┬──────────────┘
+     ▼          ▼
+ ASP.NET     IoT / Arduino
+     │          │
+     ▼          ▼
+MySQL       Hardware Integration
+     │
+     ▼
+Full-Stack Development 🚀
+```
 
 ---
 
 ## 💼 Internship Experience
 
-### 🔹 UPCL
+### UPCL
+- Completed a 1-month internship.
+- Gained exposure to professional technical workflows and organizational processes.
 
-* Completed a 1-month internship.
-* Learned about professional workflows and technical operations.
-
-### 🔹 InAmigos Foundation
-
-* Completed a 1-month internship.
-* Worked in a collaborative environment and gained practical exposure.
----
-
-## 📂 Featured Projects
-
-### 🌡️ Live Temperature Monitoring System
-
-**Tech Stack:** Arduino, Temperature Sensor
-
-* Developed an IoT-based monitoring device.
-* Captured and displayed real-time temperature data.
-* Integrated sensors with Arduino hardware.
-
----
-
-### ✈️ Flight Management System
-
-**Tech Stack:** C Programming
-
-Features:
-
-* Flight Search
-* Ticket Booking
-* Booking Cancellation
-* Seat Availability Check
-* Price-Based Search
-* Time-Based Search
-* Booking Confirmation
-* Booking Deletion
-
-Developed a customer-side flight management application for efficient flight booking and management.
+### InAmigos Foundation
+- Completed a 1-month internship.
+- Worked in a collaborative environment and gained practical project experience.
 
 ---
 
 ## 🎯 Current Focus
 
-* Building ASP.NET Web Applications
-* Improving Database Design Skills
-* Learning Full-Stack Development
-* Creating Real-World Projects
-* Enhancing Problem-Solving Skills
+- 🧠 Strengthening DSA and competitive problem solving
+- 💻 Building practical C++ projects
+- 🌐 Developing ASP.NET applications
+- 🗄️ Improving database design and SQL skills
+- 🚀 Moving toward full-stack development
+- 🤝 Preparing for software development internships
 
 ---
 
-## 🌐 Portfolio
-
-🔗 **Portfolio Website**
-https://pixel-perfect-clone-34692.lovable.app
-
----
-
-## 📄 Resume
-
-🔗 **Resume**
-https://drive.google.com/file/d/1uDMbUgo4MRKNsWJrkxykFfN3kagl6IIy/view
-
----
 ## 📊 GitHub Analytics
-
-I'm passionate about building projects, learning new technologies, and continuously improving my development skills. Here's a snapshot of my GitHub activity, language usage, and coding journey.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chauhanarjit07&theme=github_dark" alt="GitHub Profile Summary" />
@@ -143,43 +144,56 @@ I'm passionate about building projects, learning new technologies, and continuou
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chauhanarjit07&theme=github_dark" width="49%" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chauhanarjit07&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive Time" />
 </p>
-## 📫 Connect With Me
+
+---
+
+## 📄 Resume & Portfolio
+
+- 📄 **Resume:** https://drive.google.com/file/d/1uDMbUgo4MRKNsWJrkxykFfN3kagl6IIy/view
+- 🌐 **Portfolio:** https://pixel-perfect-clone-34692.lovable.app
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/chauhanarjit07">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
-  </a>
-
   <a href="https://www.linkedin.com/in/arjit-chauhan-1a0325316/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
-
+  <a href="https://github.com/chauhanarjit07">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
   <a href="https://www.instagram.com/chauhan_arjit_6207/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
   </a>
-
   <a href="mailto:chauhanarjit07@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
   </a>
 </p>
 
-📧 **Email:** [chauhanarjit07@gmail.com](mailto:chauhanarjit07@gmail.com)
-
-📱 **Phone:** +91 9548974233
-
-🔗 **LinkedIn:** [www.linkedin.com/in/arjit-chauhan-1a0325316](http://www.linkedin.com/in/arjit-chauhan-1a0325316)
-
-🔗 **GitHub:** github.com/chauhanarjit07
+📧 **Email:** chauhanarjit07@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/arjit-chauhan-1a0325316/
 
 ---
 
-## ⭐ Quote
+## 📌 Repository Quality Checklist
 
-> "Learning, Building, and Growing One Project at a Time."
+I aim to keep my projects recruiter-friendly by maintaining:
+
+- ✅ Clear README documentation
+- ✅ Organized project structure
+- ✅ Appropriate `.gitignore` files
+- ✅ Open-source licensing where applicable
+- ✅ Meaningful commit messages
+- 🚧 Screenshots / demos for projects as they are added
+- 🚧 Continuous improvements and new features
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b><br>
-  Feel free to connect, collaborate, and explore my projects.
-</p>
+<div align="center">
+
+### 💡 Learn → Build → Debug → Improve → Repeat 🔁
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
