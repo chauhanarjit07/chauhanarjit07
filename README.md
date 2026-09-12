@@ -123,7 +123,7 @@ Full-Stack Development 🚀
 ## 📄 Resume & Portfolio
 
 - 📄 **Resume:** https://drive.google.com/file/d/1uDMbUgo4MRKNsWJrkxykFfN3kagl6IIy/view
-- 🌐 **Portfolio:** [https://pixel-perfect-clone-34692.lovable.app](https://chauhanarjit07.github.io/portfolio-website/)
+- 🌐 **Portfolio:** https://chauhanarjit07.github.io/portfolio-website/
 
 ---
 
