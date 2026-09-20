@@ -46,12 +46,12 @@ I started programming with **C**, built my foundation through **C++ and DSA**, a
 
 > These are the projects I currently consider the strongest representation of my learning journey.
 
-| Rank | Project | Focus | Technologies |
-|---|---|---|---|
-| 🥇 | [Basics_of_DSA](https://github.com/chauhanarjit07/Basics_of_DSA) | DSA & problem solving | C++ |
-| 🥈 | [Student-Registration-Form](https://github.com/chauhanarjit07/Student-Registration-Form) | Database-driven web app | ASP.NET, C#, MySQL |
-| 🥉 | [FlightBooker](https://github.com/chauhanarjit07/FlightBooker) | Flight booking & file handling | C |
-| 4️⃣ | [Live-Temperature-Sensing-Device](https://github.com/chauhanarjit07/Live-Temperature-Sensing-Device) | Real-time monitoring | Arduino, C/C++, Sensors |
+| Project | Focus | Technologies |
+|---|---|---|
+| [Basics_of_DSA](https://github.com/chauhanarjit07/Basics_of_DSA) | DSA & problem solving | C++ |
+| [Student-Registration-Form](https://github.com/chauhanarjit07/Student-Registration-Form) | Database-driven web app | ASP.NET, C#, MySQL |
+| [FlightBooker](https://github.com/chauhanarjit07/FlightBooker) | Flight booking & file handling | C |
+| [Live-Temperature-Sensing-Device](https://github.com/chauhanarjit07/Live-Temperature-Sensing-Device) | Real-time monitoring | Arduino, C/C++, Sensors |
 
 ---
 
